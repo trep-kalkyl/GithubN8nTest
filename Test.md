@@ -1,5 +1,5 @@
 {
-  "itm_name": "FXQJ 4X120/70 PÅ STEGE",
+  "itm_name": "FXJ 4X120/70 PÅ STEGE",
   "itm_description": "FXQJ 4X120/70 PÅ VERTIKAL ELLER HORISONTELL KABELSTEGE ELLER KABELHYLLA INKLUSIVE BUNTBAND.",
   "itm_image": "images/images_articles/Fkkj4.jpg",
   "itm_keywords": [
