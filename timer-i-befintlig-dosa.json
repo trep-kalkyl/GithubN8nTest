@@ -1,0 +1,45 @@
+{
+    "﻿id": "2977",
+    "asset_id": "380",
+    "title": "TIMER I BEFINTLIG DOSA",
+    "alias": "timer-i-befintlig-dosa",
+    "introtext": "TIMER 15 MIN - 8 TIMINSTALLERAD I BEFINTLIG DOSA..",
+    "catid": "565",
+    "metakey": "554, ELEKTRONISKA VÄGGAPPARATER, TIMER, TIMER I BEFINTLIG DOSA",
+    "fieldpackages_data": [
+        {
+            "﻿package_name": "TIMER",
+            "article_id": "2977",
+            "workcode": "208501150",
+            "work_description": "TYRISTOR INFÄLLD 3 INKOPPL",
+            "working_hours": "0.10",
+            "material_code": "1815080",
+            "material_name": "TIMER BASIC, 10A, 2-POL, JUSSI",
+            "material_cat": "1",
+            "material_type": "pieces",
+            "material_amount": "1.00",
+            "material_cost": "1170.00",
+            "construction_method": "3",
+            "manufacturer_url": "",
+            "quantity": "1",
+            "estimation_item": "0"
+        },
+        {
+            "﻿package_name": "TÄCKRAM 1-FACK",
+            "article_id": "2977",
+            "workcode": "",
+            "work_description": "",
+            "working_hours": "0.00",
+            "material_code": "1815151",
+            "material_name": "TÄCKRAM 1-FACK",
+            "material_cat": "1",
+            "material_type": "pieces",
+            "material_amount": "1.00",
+            "material_cost": "34.70",
+            "construction_method": "3",
+            "manufacturer_url": "",
+            "quantity": "1",
+            "estimation_item": "0"
+        }
+    ]
+}
